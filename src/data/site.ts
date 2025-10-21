@@ -15,7 +15,7 @@ export const site: SiteContent = {
   avatar: avatarImg,
   socials: [
     // Update with your real profiles if different
-    { name: 'GitHub', url: 'https://github.com/' },
+    { name: 'GitHub', url: 'https://github.com/humoyun-webs' },
     { name: 'LinkedIn', url: 'https://www.linkedin.com/in/' },
     { name: 'Telegram', url: 'https://t.me/hum0_yun' },
   ],
