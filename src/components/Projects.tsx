@@ -25,7 +25,7 @@ function ExternalIcon() {
 }
 
 export default function Projects() {
-  const { tl, t } = useI18n();
+  const { t, tl } = useI18n();
   return (
     <section id="projects" className="section">
       <div className="container">
@@ -69,3 +69,4 @@ export default function Projects() {
     </section>
   );
 }
+
